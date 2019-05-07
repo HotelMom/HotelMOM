@@ -1,0 +1,64 @@
+﻿@using HotelDemo.Models
+
+@model HotelDemo.ViewModels.IznajmljivanjeViewModel
+
+
+@{
+    ViewBag.Title = "Zauzete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<h2>Zauzete sobe/iznajmljivanja</h2>
+<br />
+<div class="row">
+
+
+    <div class="col-md-3">
+        <h4>ID iznajmljivanja</h4>
+        <table>
+
+            @foreach (var item in Model.Iznajmljivanjes)
+            {
+                <tr>
+                    <td>
+                        @item.Id
+                    </td>
+                </tr>
+
+            }
+        </table>
+
+    </div>
+
+    <div class="col-md-3">
+        <h4>Ime gosta</h4>
+        <table>
+            @foreach (var item in Model.Gosts)
+            {
+                <tr>
+                    <td>
+                        @item.Ime
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+
+    <div class="col-md-4">
+        <h4>Broj sobe</h4>
+        <table>
+            @foreach (var item in Model.Sobas)
+            {
+                <tr>
+                    <td>
+                        @item.Broj_Sobe
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>
+</table>

@@ -1,0 +1,68 @@
+﻿@model IEnumerable<HotelDemo.Models.Gost>
+@using HotelDemo.Models;
+
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var celaBaza = new ApplicationDbContext();
+
+    int i = 0;
+
+    var modelPlacanja = from id in Model
+                        select id.PlacanjeId;
+
+    var placanjaTemp = from pla in celaBaza.Placanja
+                       where modelPlacanja.Contains(pla.Placanje_ID)
+                       select pla.NacinPlacanja;
+
+    var placanjaList = placanjaTemp.ToList();
+
+
+}
+
+<h2>Gosti</h2>
+
+@if (Model == null)
+{
+    <h2>Nema gostiju</h2>
+}
+
+<table class="table table-bordered" style="border-width: 5px">
+    <tr>
+        <th>Ime</th>
+        <th>Prezime</th>
+        <th>Broj licne karte ili pasosa</th>
+        <th>Nacin placanja</th>
+    </tr>
+
+   
+    @foreach (var gost in Model)
+    {
+    <tr>
+        <td><a href="">@gost.Ime</a></td>
+        <td><a href="">@gost.Prezime</a></td>
+        <td><a href="">@gost.Broj_LK_Pasos</a></td>
+        @*<td><a href="">@gost.PlacanjeId</a></td>*@
+        @if (@gost.PlacanjeId == 1)
+        {
+            <td><a href="">Cek</a></td>
+        }
+        else if (@gost.PlacanjeId == 2)
+        {
+            <td><a href="">Kartica</a></td>
+        }
+        else
+        {
+            <td><a href="">Gotovina</a></td>
+        }
+
+
+        @*<td><a href="">@placanjaList[i++]</a></td>*@
+        @*<td><a href="">@celaBaza.Placanja.ToList()</a></td>*@
+    </tr>
+    }
+
+</table>
+

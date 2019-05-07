@@ -1,0 +1,59 @@
+﻿@model HotelDemo.Models.Soba
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Soba</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Sprat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sprat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pogled)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pogled)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Broj_Sobe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Broj_Sobe)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tip_Sobe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tip_Sobe)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Stanje_Sobe)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Stanje_Sobe)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Sobe_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

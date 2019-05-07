@@ -1,0 +1,28 @@
+﻿@model HotelDemo.ViewModels.IznajmljivanjeViewModel
+
+@{
+
+
+    ViewBag.Title = "Novi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Novi</h2><br />
+
+@using (Html.BeginForm("Novi", "Iznajmljivanje"))
+{
+<div class="form-group">
+    @Html.LabelFor(m => m.Gosts, "Gosti")
+    @Html.DropDownListFor(m => m.Gosts, new SelectList(Model.Gosts, "Gost_ID", "Ime"), "Ime gosta", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(m => m.GenreId)*@
+</div>
+<div class="form-group">
+    @Html.LabelFor(m => m.Sobas, "Slobodne sobe")
+    @Html.DropDownListFor(m => m.Sobas, new SelectList(Model.Sobas.Where(c => c.Stanje_Sobe == false), "Sobe_ID", "Broj_Sobe"), "Broj slobodne sobe", new { @class = "form-control" })
+    @*@Html.ValidationMessageFor(m => m.GenreId)*@
+</div>
+
+    <button type="submit" class="btn btn-primary">Sacuvaj izmene</button>
+}
+
+

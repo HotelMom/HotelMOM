@@ -1,0 +1,593 @@
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\HotelDemo.dll.config
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\HotelDemo.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\HotelDemo.pdb
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csc.exe
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csc.exe.config
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csc.rsp
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csi.exe
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csi.exe.config
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\csi.rsp
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.AppContext.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Console.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.IO.Compression.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Claims.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.ValueTuple.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\vbc.exe
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\vbc.exe.config
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\vbc.rsp
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Antlr3.Runtime.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\EntityFramework.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Newtonsoft.Json.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Owin.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Helpers.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Mvc.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Optimization.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Razor.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\WebGrease.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Helpers.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Mvc.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Optimization.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.Razor.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Newtonsoft.Json.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Antlr3.Runtime.pdb
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\EntityFramework.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csprojAssemblyReference.cache
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CoreCompileInputs.cache
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CopyComplete
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.dll
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.pdb
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.InitialModel.resources
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.GenerateResource.cache
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddPlacanje.resources
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedPlacanje.resources
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddedAnnotationsToGost.resources
+C:\Users\Marko Isailovic\source\repos\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedGosts.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\HotelDemo.dll.config
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\HotelDemo.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\HotelDemo.pdb
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csc.exe
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csc.exe.config
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csc.rsp
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csi.exe
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csi.exe.config
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\csi.rsp
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Managed.Core.targets
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.AppContext.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Collections.Immutable.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Console.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.IO.Compression.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Reflection.Metadata.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.AccessControl.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Claims.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Security.Principal.Windows.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.ValueTuple.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XmlDocument.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\vbc.exe
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\vbc.exe.config
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\vbc.rsp
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe.config
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Antlr3.Runtime.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\EntityFramework.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Web.Infrastructure.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Newtonsoft.Json.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Owin.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Helpers.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Mvc.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Optimization.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Razor.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\WebGrease.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Helpers.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Mvc.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Optimization.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.Razor.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Newtonsoft.Json.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Antlr3.Runtime.pdb
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\EntityFramework.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csprojAssemblyReference.cache
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.InitialModel.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddPlacanje.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedPlacanje.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddedAnnotationsToGost.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedGosts.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.GenerateResource.cache
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CoreCompileInputs.cache
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CopyComplete
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.dll
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.pdb
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SobaStanje_SobeIntoBool.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedSobas.resources
+d:\HOTEL\Verzije\005\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.DatumPlacanjeDeleted.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\HotelDemo.dll.config
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\HotelDemo.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\HotelDemo.pdb
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csc.exe
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csc.exe.config
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csc.rsp
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csi.exe
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csi.exe.config
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\csi.rsp
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Managed.Core.targets
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.AppContext.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Collections.Immutable.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Console.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.IO.Compression.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Reflection.Metadata.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.AccessControl.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Claims.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Security.Principal.Windows.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.ValueTuple.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XmlDocument.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\vbc.exe
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\vbc.exe.config
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\vbc.rsp
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe.config
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Antlr3.Runtime.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\EntityFramework.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Web.Infrastructure.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Newtonsoft.Json.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Owin.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Helpers.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Mvc.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Optimization.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Razor.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\WebGrease.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Helpers.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Mvc.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Optimization.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.Razor.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Newtonsoft.Json.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Antlr3.Runtime.pdb
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\EntityFramework.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csprojAssemblyReference.cache
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.InitialModel.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddPlacanje.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedPlacanje.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddedAnnotationsToGost.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedGosts.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SobaStanje_SobeIntoBool.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedSobas.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.DatumPlacanjeDeleted.resources
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.GenerateResource.cache
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CoreCompileInputs.cache
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CopyComplete
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.dll
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.pdb
+d:\HOTEL\Verzije\006\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.Iznajmljivanje.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\HotelDemo.dll.config
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\HotelDemo.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\HotelDemo.pdb
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csc.exe
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csc.exe.config
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csc.rsp
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csi.exe
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csi.exe.config
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\csi.rsp
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Managed.Core.targets
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.AppContext.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Collections.Immutable.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Console.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.IO.Compression.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Reflection.Metadata.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.AccessControl.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Claims.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Security.Principal.Windows.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.ValueTuple.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XmlDocument.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\vbc.exe
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\vbc.exe.config
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\vbc.rsp
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe.config
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Antlr3.Runtime.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\EntityFramework.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Web.Infrastructure.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Newtonsoft.Json.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Owin.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Helpers.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Mvc.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Optimization.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Razor.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\WebGrease.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Helpers.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Mvc.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Optimization.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.Razor.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Newtonsoft.Json.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Antlr3.Runtime.pdb
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\EntityFramework.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csprojAssemblyReference.cache
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.InitialModel.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddPlacanje.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedPlacanje.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddedAnnotationsToGost.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedGosts.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SobaStanje_SobeIntoBool.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedSobas.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.DatumPlacanjeDeleted.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.Iznajmljivanje.resources
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.GenerateResource.cache
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CoreCompileInputs.cache
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CopyComplete
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.dll
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.pdb
+d:\HOTEL\Verzije\007\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.FkeysIznajmljivanje.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\HotelDemo.dll.config
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\HotelDemo.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\HotelDemo.pdb
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csc.exe
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csc.exe.config
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csc.rsp
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csi.exe
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csi.exe.config
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\csi.rsp
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.Managed.Core.targets
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.AppContext.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Collections.Immutable.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Console.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Diagnostics.StackTrace.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.IO.Compression.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.IO.FileSystem.Primitives.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.AccessControl.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.IO.Pipes.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Reflection.Metadata.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.AccessControl.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Claims.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Encoding.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.Primitives.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Security.Principal.Windows.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Text.Encoding.CodePages.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.ValueTuple.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Xml.ReaderWriter.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XmlDocument.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\System.Xml.XPath.XDocument.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\vbc.exe
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\vbc.exe.config
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\vbc.rsp
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\roslyn\VBCSCompiler.exe.config
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Antlr3.Runtime.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\EntityFramework.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Web.Infrastructure.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Newtonsoft.Json.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Owin.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Helpers.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Mvc.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Optimization.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Razor.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\WebGrease.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Helpers.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Mvc.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Optimization.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.Razor.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.Deployment.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Web.WebPages.Razor.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Newtonsoft.Json.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Antlr3.Runtime.pdb
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\EntityFramework.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\EntityFramework.SqlServer.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Core.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.Owin.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Facebook.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Cookies.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Google.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.Twitter.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.Owin.Security.OAuth.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\System.Diagnostics.DiagnosticSource.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csprojAssemblyReference.cache
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.InitialModel.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddPlacanje.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedPlacanje.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.AddedAnnotationsToGost.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedGosts.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SobaStanje_SobeIntoBool.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.SeedSobas.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.DatumPlacanjeDeleted.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.GenerateResource.cache
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CoreCompileInputs.cache
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.csproj.CopyComplete
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.dll
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.pdb
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.last.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.IznajmljivanjeSeed.resources
+d:\HOTEL\Verzije\010\HotelDemo\HotelDemo\obj\Debug\HotelDemo.Migrations.Bla.resources

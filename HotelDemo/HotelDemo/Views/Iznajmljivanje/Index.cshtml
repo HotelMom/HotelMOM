@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Iznajmljivanje</h2>
+<br />
+<br />
+<br />
+
+@*<h3>Pregled zauzetih soba</h3>*@
+@Html.ActionLink("Pregled zauzetih soba", "Zauzete", "Iznajmljivanje", null, new { @class = "btn btn-primary col-lg-5" })
+<div class="col-lg-1"></div>
+@*<h3>Novi unos</h3>*@
+@Html.ActionLink("Novi unos", "Novi", "Iznajmljivanje", null, new { @class = "btn btn-primary col-lg-5" })
+<div class="col-lg-1"></div>
